@@ -1,4 +1,4 @@
-# C++ Adaptative Background Subtraction with ALPCA
+# C++ Felzenszwalb HOG extractor
 
 This repository is meant to provide an easy-to-use implementation of the Felzenszwalb HOG features extractor.
 <br />
