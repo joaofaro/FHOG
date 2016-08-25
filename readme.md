@@ -8,7 +8,7 @@ The OpenCV library have only the original HOG, proposed by Dalal and Triggs. How
 
 ## Code Example
 
-To use the ALPCA Background subtraction you just need to create the object:
+To use the FHOG extractor you just need to create the object:
 <br />
 *HogFeature FHOG(cellSize, scale);*
 
